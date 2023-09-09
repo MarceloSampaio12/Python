@@ -3,3 +3,7 @@
 
 nome = input('Digite o seu nome: ')
 print('Seja bem-vindo', nome, '!')
+
+# Outra maneira:
+name = input('Digite o seu nome: ')
+print('Seja bem-vindo {}!'.format(name))
