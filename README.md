@@ -1,2 +1,2 @@
 # Python 🐍
- Repositório criado para guardar e organizar estudos com Python🐍!
+ Repositório criado para salvar e organizar estudos com Python🐍!
